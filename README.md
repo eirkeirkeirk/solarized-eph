@@ -8,7 +8,7 @@ A slightly enhanced (IMHO) version of the **Solarized Light** TextMate theme. In
 ![](./screenshots/css.png)
 
 ### JavaScript
-![](./screenshots/css.png)
+![](./screenshots/js.png)
 
 ### HTML
 ![](./screenshots/html.png)
